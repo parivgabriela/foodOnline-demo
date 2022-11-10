@@ -1,0 +1,3 @@
+source env/bin/activate
+foodOnline-demo/foodonline_main
+python manage.py migrate #if there is any changes
